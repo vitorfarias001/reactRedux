@@ -1,9 +1,4 @@
-<h1 align="center">
-<img alt="Shopping List" title="Shopping List" src="https://github.com/agftech/alga-shopping/blob/master/.github/custom-desafio-react-2020.svg" width="610px" />
-</h1>
-<h2 align="center">
-<img src="https://img.shields.io/badge/Project developed during the -React Challenge by 🚀 AlgaWorks-0095da?style=for-the-badge"/>
-</h2>
+
 
 <p align="Center">
 <a href="https://github.com/agftech" target="_blank">
